@@ -3,9 +3,8 @@
 This projects implemets the cli command `head` that prints the first few lines of each FILE to standard output.
 
 ### usage
-
 ```sh
-./main {file_path}
+cargo run -- -f {filepath}
 ```
 
 ### features
